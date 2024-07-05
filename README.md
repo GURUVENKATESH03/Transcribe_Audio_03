@@ -46,10 +46,6 @@ To use the application:
 - **No Microphone Found:** Check if a microphone is installed and configured correctly on your device.
 - **Permission Blocked:** Adjust browser settings to allow microphone access.
 
-## License
-
-This project is licensed under the MIT License - see the LICENSE file for details.
-
 ---
 
 Feel free to adjust and expand this README to include more details specific to your project or any additional functionalities. Happy coding! 🚀
