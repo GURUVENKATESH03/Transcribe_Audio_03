@@ -48,4 +48,3 @@ To use the application:
 
 ---
 
-Feel free to adjust and expand this README to include more details specific to your project or any additional functionalities. Happy coding! 🚀
